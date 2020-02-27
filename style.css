@@ -1,0 +1,15 @@
+.topo {
+  height: 30px;
+}
+h1 {
+  font-size: 15px;
+}
+.nav-link {
+  color: black;
+}
+.logo {
+  width: 389px
+}
+*{
+  border: 1px solid red;
+}
