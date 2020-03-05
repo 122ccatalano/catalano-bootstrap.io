@@ -1,0 +1,13 @@
+
+h1 {
+  font-size: 15px;
+}
+.nav-link {
+  color: black;
+}
+.logo {
+  width: 389px
+}
+#carouselExampleControls {
+  width: 100vw;
+}
