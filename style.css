@@ -11,3 +11,21 @@ h1 {
 #carouselExampleControls {
   width: 100vw;
 }
+#footer {
+  background-color: #333;
+  height: 350px;
+  width: 100vw;
+}
+.white {
+  color: white;
+}
+#white {
+  color: white;
+}
+#short {
+  width: 400px;
+}
+.small {
+  height: 45px;
+  width: 45px;
+}
